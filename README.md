@@ -1,4 +1,4 @@
-# ViewbotAnalysisTool
+# ViewbotAnalysisTool 🤖
 
 A Twitch and Kick View bot Analysis tool, Determine if your favorite streamers are view botting.
 
@@ -11,6 +11,9 @@ Uses Selenium to webscrape Twitch/Kick chatrooms, and counts unique chatters, th
 ```bash
 #Install Repo
 git clone https://github.com/clearlyyy/ViewbotAnalysisTool
+
+#Go into dir
+cd ViewbotAnalysisTool
 
 #Install Requirements
 pip3 install -r requirements.txt
