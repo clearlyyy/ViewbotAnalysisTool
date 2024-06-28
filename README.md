@@ -20,3 +20,5 @@ python3 main.py
 ```
 
 After Installation, Replace client_id and client_secret in main.py, with the appropriate values, you can find these in your Twitch Developer Settings by Registering an App.
+
+Note: Chrome is required to be installed on your system. Kick's CloudFlare protection blocks automated firefox browsers.
