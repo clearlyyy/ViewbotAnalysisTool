@@ -4,7 +4,7 @@ A Twitch and Kick View bot Analysis tool, Determine if your favorite streamers a
 
 ## **How it works:**
 
-Uses Selenium to webscrape Twitch/Kick chatrooms, and counts unique chatters, then uses the Twitch API to find viewercounts, and selenium to scrape for kicks viewcounts. (Unfortunately Kick has no public API). After Data collection is done, we get an average viewership and compare that to unique chatters, then find a ratio (Viewer Count/Unique Chatters) You can use this metric to determine whether a streamer is using viewbots or not. The tool runs fully headless aswell.
+Uses Selenium to webscrape Twitch/Kick chatrooms, and counts unique chatters, then uses the Twitch API to find viewercounts, and selenium to scrape for kicks viewcounts. (Unfortunately Kick has no public API). After Data collection is done, we get an average viewership and compare that to unique chatters, then find a ratio (Viewer Count/Unique Chatters) You can use this metric to determine whether a streamer is using viewbots or not. The tool runs fully headless aswell. After Data Collection is done, all results get saved into a .CSV Spreadsheet. 
 
 ## **Installation:**
 
